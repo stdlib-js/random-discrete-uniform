@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`7f63ca2`](https://github.com/stdlib-js/stdlib/commit/7f63ca2e79dfec53d1424d7c29704f0ec4cd7af7) - **bench:** reduce maximum array size _(by Athan Reines)_
+-   [`36d236e`](https://github.com/stdlib-js/stdlib/commit/36d236e438223bee95509ef8473b53387041a943) - **test:** guard against edge case _(by Athan Reines)_
+-   [`b5e5d2e`](https://github.com/stdlib-js/stdlib/commit/b5e5d2e960022327279b859e583d6533e506a4ef) - **docs:** update heading _(by Athan Reines)_
 -   [`737faf1`](https://github.com/stdlib-js/stdlib/commit/737faf1be9f42aaeac74cd3141abf855057b1948) - **feat:** add `random/discrete-uniform` _(by Athan Reines)_
 
 </details>
